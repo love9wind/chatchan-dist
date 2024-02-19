@@ -1,3 +1,14 @@
+推荐使用浏览器插件，除了载入更快，还支持边栏
+
+## 浏览器插件
+
+|微软Edge|谷歌Chrome|
+|-|-|
+| [![](https://github.com/easychen/checkchan-dist/raw/master/image/20220906224637.png)](https://microsoftedge.microsoft.com/addons/detail/aakifgfhadhkcflbkjbhbamljjchpkho) |[![](https://github.com/easychen/checkchan-dist/raw/master/image/20220906224612.png)](https://chrome.google.com/webstore/detail/knadnllihfobgmmeanknpnklccjhiolf)  |
+
+
+点以上图标进入商店页面或者直接在商店搜索「Check酱」即可
+
 > ⚠️ 可 watch 本 repo 以获得在线版最新地址
 
 在线版最新地址 [c3.level06.com](https://c3.level06.com)
@@ -11,6 +22,16 @@
 ![](images/20230404174420.png)
 
 ## 最近更新
+
+v1.0.24
+
+支持 @DALLE 生成图片，更新GPT4模型到0125最新版
+
+
+v1.0.22
+
+支持 GPT4+、GPT4V模型；支持聊天时发送图片
+
 
 v1.0.21
 
